@@ -1,0 +1,44 @@
+case=caso1
+input=5
+-8
+10
+1
+2
+15
+25
+10
+7
+
+output="31 4 32"
+
+output=/31 4 32 */
+
+case=caso2
+input=1
+1
+1
+1
+1
+1
+1
+1
+1
+
+output="3 3 3"
+
+output=/3 3 3 */
+
+case=caso3
+input=3
+2
+4
+5
+6
+9
+0
+1
+2
+
+output="8 9 15"
+
+output=/8 9 15 */

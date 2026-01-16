@@ -1,0 +1,34 @@
+case=Teste 1
+grade reduction=100%
+input=10
+20
+
+output="30
+"
+
+
+case=Teste 2
+grade reduction=100%
+input=99
+1
+
+output="100
+"
+
+
+case=Teste 3
+grade reduction=100%
+input=50
+90
+
+output="140
+"
+
+
+case=Teste 4
+grade reduction=100%
+input=1000
+80
+
+output="1080
+"

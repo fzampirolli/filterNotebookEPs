@@ -1,0 +1,77 @@
+case=caso1
+input=1
+2
+3
+4
+5
+6
+7
+8
+9
+output="Maior: 9
+Posicao (maior): 2 linha e 2 coluna
+Menor: 1
+Posicao (menor): 0 linha e 0 coluna
+1 2 3
+4 5 6
+7 8 9"
+
+output=/Maior: 9 *
+Posicao \(maior\): 2 linha e 2 coluna *
+Menor: 1 *
+Posicao \(menor\): 0 linha e 0 coluna *
+1 2 3 *
+4 5 6 *
+7 8 9 */
+
+case=caso2
+input=5
+2
+1
+9
+8
+0
+3
+4
+5
+output="Maior: 9
+Posicao (maior): 1 linha e 0 coluna
+Menor: 0
+Posicao (menor): 1 linha e 2 coluna
+5 2 1
+9 8 0
+3 4 5"
+
+output=/Maior: 9 *
+Posicao \(maior\): 1 linha e 0 coluna *
+Menor: 0 *
+Posicao \(menor\): 1 linha e 2 coluna *
+5 2 1 *
+9 8 0 *
+3 4 5 */
+
+case=caso3
+input=2
+20
+11
+9
+8
+5
+4
+3
+99
+output="Maior: 99
+Posicao (maior): 2 linha e 2 coluna
+Menor: 2
+Posicao (menor): 0 linha e 0 coluna
+2 20 11
+9 8 5
+4 3 99"
+
+output=/Maior: 99 *
+Posicao \(maior\): 2 linha e 2 coluna *
+Menor: 2 *
+Posicao \(menor\): 0 linha e 0 coluna *
+2 20 11 *
+9 8 5 *
+4 3 99 */

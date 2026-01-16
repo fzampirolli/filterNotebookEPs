@@ -1,0 +1,13 @@
+case=caso1
+input=7 4 3 2 1
+output="7 4 3 2 1
+3.40"
+output=/7 4 3 2 1 * 
+3.40 */
+
+case=caso2
+input=5 4 37 8 6
+output="5 4 37 8 6
+12.00"
+output="/5 4 37 8 6 * 
+12.00 */

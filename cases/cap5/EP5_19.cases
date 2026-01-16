@@ -1,0 +1,27 @@
+case=caso1
+input=3
+ana nina ivan
+1 2 3
+
+output="ivan"
+output="ivan
+"
+output="ivan "
+output="ivan 
+"
+
+case=caso2
+input=5
+ana nina ivan maria carlos
+1 2 3 4 5
+
+output="maria
+carlos"
+output="maria
+carlos
+"
+output="maria 
+carlos "
+output="maria 
+carlos 
+"

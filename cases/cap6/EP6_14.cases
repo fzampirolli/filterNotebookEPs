@@ -1,0 +1,76 @@
+case="1"
+input=3
+1
+4
+6
+9
+5
+2
+3
+5
+8
+
+output="A soma eh: 12"
+output=/A soma eh: 12 */
+
+case="2"
+input=3
+0
+3
+6
+4
+9
+-3
+7
+-4
+5
+
+output="A soma eh: 6"
+output=/A soma eh: 6 */
+
+case="3"
+input=3
+5
+7
+8
+9
+-8
+-5
+2
+0
+3
+
+output="A soma eh: 10"
+output=/A soma eh: 10 */
+
+case="4"
+input=2
+4
+7
+7
+8
+
+output="A soma eh: 7"
+output=/A soma eh: 7 */
+
+case="5"
+input=4
+2
+4
+-8
+7
+3
+-4
+6
+9
+3
+5
+-3
+7
+3
+5
+8
+9
+
+output="A soma eh: 25"
+output=/A soma eh: 25 */

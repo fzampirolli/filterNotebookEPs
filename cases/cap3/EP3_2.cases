@@ -1,0 +1,97 @@
+case=Teste1
+input=7
+5
+-1
+
+output="x1 = -0.88
+x2 = 0.16"
+
+output="x1 = -0,88
+x2 = 0,16"
+
+
+
+case=Teste2
+input=-10
+-9
+-5
+
+output="Sem solucao real!
+Delta = -119.00"
+
+output="Sem solucao real!
+Delta = -119,00"
+
+
+
+case=Teste3
+input=1
+0
+0
+
+output="x = 0.00"
+
+output="x = 0,00"
+
+
+
+case=Teste4
+input=-3
+-5
+5
+
+output="x1 = -2.37
+x2 = 0.70"
+
+output="x1 = -2.37
+x2 = 0.70"
+
+
+
+case=Teste5
+input=10
+10
+3
+
+output="Sem solucao real!
+Delta = -20.00"
+
+output="Sem solucao real!
+Delta = -20,00"
+
+
+
+case=Teste6
+input=1
+2
+3
+
+output="Sem solucao real!
+Delta = -8.00"
+
+output="Sem solucao real!
+Delta = -8,00"
+
+
+
+case=Teste7
+input=4
+-4
+1
+
+output="x = 0.50"
+
+output="x = 0,50"
+
+
+
+case=Teste8
+input=2
+5
+-4
+
+output="x1 = -3.14
+x2 = 0.64"
+
+output="x1 = -3,14
+x2 = 0,64"

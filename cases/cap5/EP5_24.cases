@@ -1,0 +1,17 @@
+case="1"
+input=2.5 5.8 5.8 6.7 5.4
+2.3 6.6 9.5 8.9 2.5
+
+output="O produto escalar vale 172.26."
+
+case="2"
+input=5 2.5 2.8 2.4 2.7
+6.7 4.8 1.5 2.7 2.9
+
+output="O produto escalar vale 64.01."
+
+case="3"
+input=4.8 5.6 2.9 2.7 4.8
+2.2 2.7 2.4 2.3 7.2
+
+output="O produto escalar vale 73.41."

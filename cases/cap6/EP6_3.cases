@@ -1,0 +1,112 @@
+case=caso1
+input=2
+2
+11 22
+33 44
+2
+2
+22 44
+66 88
+
+output="comparar_matrizes = True"
+output="comparar_matrizes = true"
+
+
+case=caso2
+input=2
+2
+11 22
+33 44
+2
+2
+22 44
+66 44
+
+output="comparar_matrizes = False"
+output="comparar_matrizes = false"
+
+
+case=caso3
+input=3
+5
+1 2 3 4 5
+5 4 3 2 1
+1 2 3 4 5
+2
+2
+1 2
+5 4
+
+output="comparar_matrizes = False"
+output="comparar_matrizes = false"
+
+
+
+case=caso4
+input=3
+5
+1 2 3 4 5
+5 4 3 2 1
+1 2 3 4 5
+3
+5
+2 4 6 8 10
+10 8 6 4 2
+2 4 6 8 10
+
+output="comparar_matrizes = True"
+output="comparar_matrizes = true"
+
+
+
+case=caso5
+input=3
+5
+1 2 3 4 5
+5 4 3 2 1
+1 2 3 4 5
+3
+5
+2 4 6 8 10
+10 4 3 4 2
+2 4 6 8 10
+
+output="comparar_matrizes = False"
+output="comparar_matrizes = false"
+
+
+
+case=caso6
+input=4
+3
+11 22 33
+30 20 10
+10 20 30
+33 22 11
+4
+3
+22 44 66
+60 40 20
+20 40 60
+66 44 22
+
+output="comparar_matrizes = True"
+output="comparar_matrizes = true"
+
+
+case=caso7
+input=4
+3
+11 22 33
+30 20 10
+10 20 30
+33 22 11
+4
+3
+20 40 60
+60 40 20
+22 44 66
+66 44 22
+
+output="comparar_matrizes = False"
+output="comparar_matrizes = false"

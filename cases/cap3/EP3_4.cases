@@ -1,0 +1,58 @@
+case=caso1
+input=199
+199
+199
+
+output="Disco1 = 199
+Disco2 = 199
+Disco3 = 199
+Prazo de entrega = 5
+"
+
+
+case=caso2
+input=8000
+100
+8000
+
+output="Disco1 = 8000
+Disco2 = 100
+Disco3 = 8000
+Prazo de entrega = 15
+"
+
+
+case=caso3
+input=900
+900
+111
+
+output="Disco1 = 900
+Disco2 = 900
+Disco3 = 111
+Prazo de entrega = 15
+"
+
+
+case=caso4
+input=100
+999
+999
+
+output="Disco1 = 100
+Disco2 = 999
+Disco3 = 999
+Prazo de entrega = 15
+"
+
+
+case=caso5
+input=999
+7500
+1500
+
+output="Disco1 = 999
+Disco2 = 7500
+Disco3 = 1500
+Prazo de entrega = 30
+"

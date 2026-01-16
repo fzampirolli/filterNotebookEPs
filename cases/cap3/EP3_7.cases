@@ -1,0 +1,151 @@
+case=Caso 1
+input=2021
+200
+1000
+
+output="SIM"
+
+output="SIM
+"
+
+
+case=Caso 2
+input=2021
+200
+10
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 3
+input=2020
+150
+3000
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 4
+input=2020
+150
+80000
+
+output="SIM"
+
+output="SIM
+"
+
+
+case=Caso 5
+input=2020
+201
+3000
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 6
+input=2001
+110
+5500
+
+output="SIM"
+
+output="SIM
+"
+
+case=Caso 7
+input=1950
+100
+10
+
+output="SIM"
+
+output="SIM
+"
+
+
+case=Caso 8
+input=1980
+101
+90
+
+output="SIM"
+
+output="SIM
+"
+
+
+case=Caso 9
+input=1980
+102
+90
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 10
+input=1994
+105
+90000
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 11
+input=1850
+100
+150000
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 12
+input=2021
+101
+150000
+
+output="NAO"
+
+output="NAO
+"
+
+
+case=Caso 13
+input=2021
+201
+150000
+
+output="SIM"
+
+output="SIM
+"
+
+
+case=Caso 14
+input=2005
+190
+150000
+
+output="SIM"
+
+output="SIM
+"

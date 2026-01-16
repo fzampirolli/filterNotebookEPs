@@ -1,0 +1,125 @@
+case=Teste1
+input=7
+0
+2
+4
+9
+10
+7
+8
+
+output="A: 2
+B: 1
+C: 1
+D: 0
+F: 3
+Media: 5.71"
+
+output="A: 2
+B: 1
+C: 1
+D: 0
+F: 3
+Media: 5,71"
+
+
+
+case=Teste2
+input=8
+8
+5
+8
+2
+8
+5
+5
+1
+
+output="A: 0
+B: 3
+C: 0
+D: 3
+F: 2
+Media: 5.25"
+
+output="A: 0
+B: 3
+C: 0
+D: 3
+F: 2
+Media: 5,25"
+
+
+
+case=Teste3
+input=10
+4
+7
+10
+3
+8
+2
+5
+9
+6
+8
+
+output="A: 2
+B: 2
+C: 1
+D: 2
+F: 3
+Media: 6.20"
+
+output="A: 2
+B: 2
+C: 1
+D: 2
+F: 3
+Media: 6,20"
+
+
+
+case=Teste4
+input=8
+4
+6
+5
+3
+8
+8
+8
+7
+
+output="A: 0
+B: 3
+C: 1
+D: 2
+F: 2
+Media: 6.12"
+
+output="A: 0
+B: 3
+C: 1
+D: 2
+F: 2
+Media: 6,12"
+
+
+case=Teste5
+input=1
+7
+
+output="A: 0
+B: 0
+C: 1
+D: 0
+F: 0
+Media: 7.00"
+
+output="A: 0
+B: 0
+C: 1
+D: 0
+F: 0
+Media: 7,00"

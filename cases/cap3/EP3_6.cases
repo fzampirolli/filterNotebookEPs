@@ -1,0 +1,56 @@
+case=Caso 1
+input=11
+2
+2019
+30
+1
+2018
+
+output="Retorno da comparacao = 1
+"
+
+case=Caso 2
+input=10
+5
+2019
+30
+6
+2019
+
+output="Retorno da comparacao = -1
+"
+
+case=Caso 3
+input=10
+6
+2019
+5
+6
+2019
+
+output="Retorno da comparacao = 1
+"
+
+
+case=Caso 4
+input=30
+11
+2020
+2
+12
+2020
+
+output="Retorno da comparacao = -1
+"
+
+
+case=Caso 5
+input=31
+12
+2020
+31
+12
+2020
+
+output="Retorno da comparacao = 0
+"

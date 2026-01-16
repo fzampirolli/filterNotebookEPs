@@ -1,0 +1,43 @@
+case=caso1
+input=120
+
+output="Normal"
+
+output="Normal
+"
+
+
+case=caso2
+input=-25
+
+output="Muito Baixa"
+
+output="Muito Baixa
+"
+
+
+case=caso3
+input=25
+
+output="Baixa"
+
+output="Baixa
+"
+
+
+case=caso4
+input=249
+
+output="Alta"
+
+output="Alta
+"
+
+
+case=caso5
+input=300
+
+output="Muito Alta"
+
+output="Muito Alta
+"

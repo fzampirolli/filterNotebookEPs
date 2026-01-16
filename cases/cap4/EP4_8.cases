@@ -1,0 +1,17 @@
+case=caso1
+input=10
+
+output="3.04184
+"
+
+case=caso2
+input=50
+
+output="3.12159
+"
+
+case=caso3
+input=1000
+
+output="3.14059
+"

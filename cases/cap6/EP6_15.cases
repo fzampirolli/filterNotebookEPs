@@ -1,0 +1,82 @@
+case=caso1
+input=3
+3
+1 2 3
+3 2 1
+1 2 3
+1
+1
+
+output="somar_vizinhos = 16"
+
+
+case=caso2
+input=3
+3
+1 2 3
+3 2 1
+1 2 3
+0
+0
+
+output="somar_vizinhos = 7"
+
+
+case=caso3
+input=3
+3
+1 2 3
+3 2 1
+1 2 3
+2
+2
+
+output="somar_vizinhos = 5"
+
+
+case=caso4
+input=3
+3
+1 2 3
+3 2 1
+1 2 3
+1
+2
+
+output="somar_vizinhos = 12"
+
+
+case=caso5
+input=3
+5
+1 2 3 2 1
+1 2 1 2 3
+1 2 3 1 1
+2
+3
+
+output="somar_vizinhos = 10"
+
+
+case=caso6
+input=3
+5
+1 2 3 2 1
+1 2 1 2 3
+1 2 3 1 1
+0
+4
+
+output="somar_vizinhos = 7"
+
+
+case=caso7
+input=3
+5
+1 2 3 2 1
+1 2 1 2 3
+1 2 3 1 1
+2
+0
+
+output="somar_vizinhos = 5"

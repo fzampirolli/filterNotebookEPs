@@ -1,0 +1,36 @@
+case=caso1
+input=7
+5
+
+output="Avalie nosso serviço com uma nota de 1 a 5:
+O valor fornecido é inválido. Por favor, tente novamente:
+Obrigado pela avaliação, esperamos futuras visitas!"
+
+
+case=caso2
+input=1
+
+output="Avalie nosso serviço com uma nota de 1 a 5:
+Obrigado pela avaliação, tentaremos melhorar para sua próxima visita!"
+
+
+case=caso3
+input=0
+0
+0
+0
+1
+
+output="Avalie nosso serviço com uma nota de 1 a 5:
+O valor fornecido é inválido. Por favor, tente novamente:
+O valor fornecido é inválido. Por favor, tente novamente:
+O valor fornecido é inválido. Por favor, tente novamente:
+O valor fornecido é inválido. Por favor, tente novamente:
+Obrigado pela avaliação, tentaremos melhorar para sua próxima visita!"
+
+
+case=caso3
+input=5
+
+output="Avalie nosso serviço com uma nota de 1 a 5:
+Obrigado pela avaliação, esperamos futuras visitas!"

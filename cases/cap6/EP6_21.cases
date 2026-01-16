@@ -1,0 +1,96 @@
+case=caso1
+input=1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+
+output="Maior que 10: 0
+Menor que 0: 0
+1 2 3 4
+5 6 7 8
+9 1 2 3
+4 5 6 7"
+
+output=/Maior que 10: 0 *
+Menor que 0: 0 *
+1 2 3 4 *
+5 6 7 8 *
+9 1 2 3 *
+4 5 6 7 */
+
+case=caso2
+input=4
+-2
+-3
+56
+-9
+-5
+12
+32
+1
+2
+3
+4
+32
+98
+8
+7
+
+output="Maior que 10: 5
+Menor que 0: 4
+4 -2 -3 56
+-9 -5 12 32
+1 2 3 4
+32 98 8 7"
+
+output=/Maior que 10: 5 *
+Menor que 0: 4
+4 -2 -3 56 *
+-9 -5 12 32 *
+1 2 3 4 *
+32 98 8 7 */
+
+
+case=caso3
+input=-2
+-3
+4
+-5
+-1
+2
+3
+4
+5
+6
+7
+2
+9
+8
+0
+0
+
+output="Maior que 10: 0
+Menor que 0: 4
+-2 -3 4 -5
+-1 2 3 4
+5 6 7 2
+9 8 0 0"
+
+output=/Maior que 10: 0 *
+Menor que 0: 4 *
+-2 -3 4 -5 *
+-1 2 3 4 *
+5 6 7 2 *
+9 8 0 0 */

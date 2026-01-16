@@ -1,0 +1,177 @@
+case=Teste1
+input=2
+3
+1
+2
+3
+4
+5
+6
+4
+
+output="2 1"
+output="2 1 "
+
+
+
+case=Teste2
+input=2
+3
+1
+2
+3
+4
+5
+6
+8
+
+output="-1"
+output="-1 "
+
+
+
+case=Teste3
+input=1
+1
+5
+5
+
+output="1 1"
+output="1 1 "
+
+
+
+case=Teste4
+input=1
+1
+5
+4
+
+output="-1"
+output="-1 "
+
+
+
+case=Teste5
+input=1
+2
+3
+4
+5
+
+output="-1"
+output="-1 "
+
+
+
+case=Teste6
+input=1
+2
+3
+4
+4
+
+output="1 2"
+output="1 2 "
+
+
+
+case=Teste7
+input=2
+1
+5
+6
+7
+
+output="-1"
+output="-1 "
+
+
+
+case=Teste8
+input=2
+1
+6
+5
+6
+
+output="1 1"
+output="1 1 "
+
+
+
+case=Teste9
+input=3
+3
+14
+13
+-14
+2
+-20
+-9
+0
+-2
+6
+-20
+
+output="2 2"
+output="2 2 "
+
+
+
+case=Teste10
+input=7
+7
+-12
+-11
+18
+1
+12
+-1
+-18
+18
+-3
+4
+20
+-11
+-6
+20
+0
+6
+-13
+-12
+19
+-11
+18
+4
+-17
+4
+1
+20
+7
+10
+11
+18
+9
+16
+11
+20
+-7
+18
+-20
+9
+13
+-10
+0
+-11
+20
+5
+12
+-5
+-3
+10
+-1
+-17
+
+output="4 2"
+output="4 2 "

@@ -1,0 +1,63 @@
+case=Caso 1
+input=909162
+
+output="Netuno
+HD21749b
+C9000"
+
+output="Netuno
+HD21749b
+C9000
+"
+
+
+case=Caso 2
+input=809060
+
+output="Marte
+Netuno
+A6000"
+
+output="Marte
+Netuno
+A6000
+"
+
+
+case=Caso 3
+input=918162
+
+output="HD21749b
+Saturno
+C9000"
+
+output="HD21749b
+Saturno
+C9000
+"
+
+
+case=Caso 4
+input=819061
+
+output="Saturno
+Netuno
+B7500"
+
+output="Saturno
+Netuno
+B7500
+"
+
+
+case=Caso 5
+input=908062
+
+output="Netuno
+Marte
+C9000"
+
+output="Netuno
+Marte
+C9000
+"
