@@ -3,7 +3,7 @@
 Copyright (C) 2021-2026 Francisco de Assis Zampirolli
 from Federal University of ABC. All rights reserved.
 
-For test cases, see details at ./cases/README.md.
+For EPs (Programming Exercise) test cases, see details in ./cases/README.md.
 
 filterNotebook is free: you can redistribute it and/or modify
 it under the terms of the GNU General Public License
