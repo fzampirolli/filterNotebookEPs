@@ -80,3 +80,11 @@ notebooks, make a copy of the generated notebooks.
 If you have any suggestions for correction or improvement, please 
 contact the authors.
 
+python3 filterNotebook.py all py
+python3 filterNotebook.py all java
+python3 filterNotebook.py all js
+python3 filterNotebook.py all c
+python3 filterNotebook.py all cpp
+python3 filterNotebook.py all py
+python3 filterNotebook.py all r
+
