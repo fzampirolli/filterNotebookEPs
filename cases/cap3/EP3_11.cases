@@ -1,0 +1,69 @@
+case=caso1_excelente
+input=7.2
+800
+output="Circunferencia da Terra: 40000.00 km
+Erro: 0.19 %
+Resultado: EXCELENTE"
+
+case=caso2_aviso_invalido
+input=0.5
+700
+output="AVISO: Angulo muito pequeno (< 1 grau) - medicao pode ser imprecisa
+AVISO: Distancia fora da faixa esperada (500-2000 km)
+Circunferencia da Terra: 504000.00 km
+Erro: 1157.64 %
+Resultado: MEDICAO INVALIDA"
+
+case=caso3_erro_zero
+input=0
+800
+output="ERRO: Angulo zero indica medicao no equador ou Sol no zenite"
+
+case=caso4_erro_negativo
+input=7.2
+-500
+output="ERRO: Distancia deve ser positiva"
+
+case=caso5_aceitavel
+input=8.5
+850
+output="Circunferencia da Terra: 36000.00 km
+Erro: 10.17 %
+Resultado: BOM"
+
+case=caso6_distancia_fora
+input=7.2
+3000
+output="AVISO: Distancia fora da faixa esperada (500-2000 km)
+Circunferencia da Terra: 150000.00 km
+Erro: 274.30 %
+Resultado: MEDICAO INVALIDA"
+
+case=caso7_angulo_grande
+input=89.5
+1000
+output="AVISO: Angulo muito grande (> 89 graus) - medicao pode ser imprecisa
+AVISO: Distancia fora da faixa esperada (500-2000 km)
+Circunferencia da Terra: 4022.35 km
+Erro: 89.96 %
+Resultado: MEDICAO INVALIDA"
+
+case=caso8_bom
+input=6.5
+750
+output="AVISO: Distancia fora da faixa esperada (500-2000 km)
+Circunferencia da Terra: 41538.46 km
+Erro: 3.65 %
+Resultado: EXCELENTE"
+
+case=caso9_fisicamente_impossivel
+input=95
+1000
+output="ERRO: Angulo maior ou igual a 90 graus e fisicamente impossivel"
+
+case=caso10_exato
+input=7.1865
+800
+output="Circunferencia da Terra: 40075.14 km
+Erro: 0.00 %
+Resultado: EXCELENTE"
