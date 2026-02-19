@@ -9,7 +9,6 @@ case=caso2_aviso_invalido
 input=0.5
 700
 output="AVISO: Angulo muito pequeno (< 1 grau) - medicao pode ser imprecisa
-AVISO: Distancia fora da faixa esperada (500-2000 km)
 Circunferencia da Terra: 504000.00 km
 Erro: 1157.64 %
 Resultado: MEDICAO INVALIDA"
@@ -43,7 +42,6 @@ case=caso7_angulo_grande
 input=89.5
 1000
 output="AVISO: Angulo muito grande (> 89 graus) - medicao pode ser imprecisa
-AVISO: Distancia fora da faixa esperada (500-2000 km)
 Circunferencia da Terra: 4022.35 km
 Erro: 89.96 %
 Resultado: MEDICAO INVALIDA"
@@ -51,8 +49,7 @@ Resultado: MEDICAO INVALIDA"
 case=caso8_bom
 input=6.5
 750
-output="AVISO: Distancia fora da faixa esperada (500-2000 km)
-Circunferencia da Terra: 41538.46 km
+output="Circunferencia da Terra: 41538.46 km
 Erro: 3.65 %
 Resultado: EXCELENTE"
 
