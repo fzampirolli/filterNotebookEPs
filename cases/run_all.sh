@@ -13,12 +13,6 @@
 #    bash ./cases/run_all.sh cases cases_gab --modified       (Testa só modificados)
 # ==============================================================================
 
-# Para baixar a última versão do notebook de testes:
-# curl -L https://raw.githubusercontent.com/fzampirolli/filterNotebookEPs/main/TestsuiteEPsGitHub.ipynb -o TestsuiteEPsGitHub.ipynb
-
-# para gerar ipynb na pasta gen:
-#
-
 set -e
 
 # Cores

@@ -9,7 +9,7 @@ import glob
 import warnings
 
 # ==============================================================================
-# 🚩 CONFIGURAÇÃO DE FILTRO 
+# 🚩 CONFIGURAÇÃO DE FILTRO
 # ==============================================================================
 # Defina como True para impedir funções prontas, ou False para permitir tudo.
 USE_PEDAGOGIC_FILTER = True
@@ -244,7 +244,7 @@ def testar(linguagem, comando, arquivo, casos, compilar=None):
 
     # === COMPILAÇÃO ===
     if compilar:
-        try: 
+        try:
             subprocess.run(compilar, check=True, capture_output=True)
         except subprocess.CalledProcessError as e:
             print(f"{RED}💥 Erro de compilação:{NC}")
@@ -264,8 +264,8 @@ def testar(linguagem, comando, arquivo, casos, compilar=None):
                 acertos += 1
             else:
                 print(f"{RED}❌ {nome}: FALHOU{NC}")
-                gabarito_visual = esperado_raw.split("\n<OU>\n")[0]
-                print(f"   🎯 Esperado:\n{gabarito_visual}\n   📤 Obtido:\n{saida}")
+                gabarito_visual = esperado_raw.split("\n<OU>\n")[0].strip().strip('"').strip("'")
+                print(f"   📥 Entrada:\n{entrada}\n   🎯 Esperado:\n{gabarito_visual}\n   📤 Obtido:\n{saida}")
         except Exception as e: print(f"💥 {nome}: Erro - {e}")
 
     porcentagem = (acertos/total*100) if total > 0 else 0
